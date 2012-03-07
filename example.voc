@@ -1,0 +1,7 @@
+<!--example.voc-->
+<!--An example file for Chatbots vocabulary-->
+
+<inphrase type="query" question="QUERY location">Where are you?</inphrase>
+
+<outphrase type="statement" action="STATE location">I live in a computer.
+</outphrase>
